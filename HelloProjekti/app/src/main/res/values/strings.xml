@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">HelloProjekti</string>
+    <string name="app_name">Maalilaskuri</string>
     <string name="edit_message"> </string>
     <string name="button_send">Send</string>
+
+    <string-array name="kohteet">
+        <item>putkirakenne</item>
+        <item>levyrakenne</item>
+        <item>tasopintaa</item>
+    </string-array>
 
 </resources>
